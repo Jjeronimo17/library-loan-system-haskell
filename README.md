@@ -4,7 +4,7 @@ Jeronimo Jaramillo Agudelo y Juan Esteban Grisales Restrepo
 
 Plataformas usadas: 
 
-IntelliJ IDEA (Plugin para Haskell), GitHub Copilot y ChatGPT (Codex) 
+IntelliJ IDEA (Plugin para Haskell), VScode, GitHub Copilot y ChatGPT (Agente de programacion)
 
 Biblioteca.txt 
 
