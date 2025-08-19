@@ -17,4 +17,4 @@ Prestamo {iDLibro = "1111", prestado = 2025-08-18 03:10:14.4208075 UTC, devuelto
 Prestamo {iDLibro = "1378", prestado = 2025-08-18 02:59:05.8929883 UTC, devuelto = Just 2025-08-18 03:42:44.5531429 UTC}
 Prestamo {iDLibro = "1258", prestado = 2025-08-18 02:58:54.1353931 UTC, devuelto = Just 2025-08-18 03:43:20.4175248 UTC}
 
-Link video: https://drive.google.com/file/d/17MiFiStd2LwfPWBzF1--8-sYflN7jVGq/view?usp=sharing
+
